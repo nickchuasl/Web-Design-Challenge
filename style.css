@@ -1,3 +1,49 @@
 #bio-image {
     float: left;
   }
+
+  #header {
+      background-color:darkcyan;
+      
+      
+      
+  }
+
+  .row{
+      background: ivory;
+  }
+
+  #header_wording{
+      font-size:xx-large ;
+      text-align: center;
+      color:whitesmoke
+      }
+
+body {
+    background: lightgray;
+}
+
+.box {
+    height: 400px;
+    padding: 20px;
+    color: black;
+    background: white;
+    
+  }
+
+  #max_temp_in_max_temp{
+    border: 5px solid rgb(64, 166, 250);
+  }
+
+  #cloudiness_in_cloudiness{
+    border: 5px solid rgb(64, 166, 250);
+
+  }
+
+  #wind_speed_in_WS{
+    border: 5px solid rgb(64, 166, 250);
+  }
+
+  #humidity_in_humidity{
+    border: 5px solid rgb(64, 166, 250);
+  }
