@@ -1,11 +1,10 @@
-#bio-image {
+#comparison_image {
     float: left;
   }
 
-  #header {
-      background-color:darkcyan;
-      
-      
+  .navbar-brand {
+      background-color:rgb(89, 79, 226);
+    
       
   }
 
@@ -16,7 +15,12 @@
   #header_wording{
       font-size:xx-large ;
       text-align: center;
-      color:whitesmoke
+     
+      }
+
+a:link {
+  color: white;
+  text-decoration: none;
       }
 
 body {
@@ -32,18 +36,22 @@ body {
   }
 
   #max_temp_in_max_temp{
-    border: 5px solid rgb(64, 166, 250);
+    border: 3px solid rgb(64, 166, 250);
   }
 
   #cloudiness_in_cloudiness{
-    border: 5px solid rgb(64, 166, 250);
+    border: 3px solid rgb(64, 166, 250);
 
   }
 
   #wind_speed_in_WS{
-    border: 5px solid rgb(64, 166, 250);
+    border: 3px solid rgb(64, 166, 250);
   }
 
   #humidity_in_humidity{
-    border: 5px solid rgb(64, 166, 250);
+    border: 3px solid rgb(64, 166, 250);
+  }
+
+  #Comparison-tab-h4{
+    margin-left: 27%;
   }
